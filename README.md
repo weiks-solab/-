@@ -16,4 +16,9 @@ pip install ortools spyder-kernels
 
 3.指到：D:\anaconda\envs\ortools311\python.exe
 
+## 執行程式
+```bash
+python hw.py
+
+
 
