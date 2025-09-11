@@ -16,9 +16,10 @@ pip install ortools spyder-kernels
 
 3.指到：D:\anaconda\envs\ortools311\python.exe
 
-## 執行程式
-```bash
-python hw.py
+## 使用 Spyder 執行
+1. 打開 Spyder
+2. 開啟 main.py
+3. 點擊綠色執行按鈕或在 Console 輸入 `%run hw.py`
 
 
 
