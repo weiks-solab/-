@@ -9,7 +9,7 @@ conda create -n ortools311 python=3.11 -y
 conda activate ortools311
 python -m pip install --upgrade pip
 pip install ortools spyder-kernels
-```bash
+```
 1.打開 Spyder → Tools > Preferences > Python interpreter
 
 2.勾選 Use the following interpreter
